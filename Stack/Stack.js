@@ -30,7 +30,7 @@ function length(){
     return this.top;
 }
 
-funciton clear(){
+function clear(){
     return this.top = 0;
 }
 var sta = new Stack();
